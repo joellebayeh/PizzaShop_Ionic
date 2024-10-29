@@ -35,3 +35,15 @@
 /* @import "@ionic/angular/css/palettes/dark.always.css"; */
 /* @import "@ionic/angular/css/palettes/dark.class.css"; */
 @import "@ionic/angular/css/palettes/dark.system.css";
+
+.custom-modal {
+    &::part(backdrop) {
+        --backdrop-opacity: 0.5;
+    }
+    &::part(content) {
+        margin: 15%;
+        --height: 50%;
+    }
+    --border-radius: 8px;
+}
+    

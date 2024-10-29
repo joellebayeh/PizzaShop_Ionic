@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "slug": "technology",
+    "title": "Technology",
+    "path": "/categories/technology",
+    "icon": "tech-icon.png"
+  },
+  {
+    "id": 2,
+    "slug": "finance",
+    "title": "Finance",
+    "path": "/categories/finance",
+    "icon": "finance-icon.png"
+  },
+  {
+    "id": 3,
+    "slug": "health",
+    "title": "Health",
+    "path": "/categories/health",
+    "icon": "health-icon.png"
+  },
+  {
+    "id": 4,
+    "slug": "education",
+    "title": "Education",
+    "path": "/categories/education",
+    "icon": "education-icon.png"
+  },
+  {
+    "id": 5,
+    "slug": "lifestyle",
+    "title": "Lifestyle",
+    "path": "/categories/lifestyle",
+    "icon": "lifestyle-icon.png"
+  },
+  {
+    "id": 6,
+    "slug": "travel",
+    "title": "Travel",
+    "path": "/categories/travel",
+    "icon": "travel-icon.png"
+  }
+]
+  

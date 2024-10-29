@@ -1,0 +1,51 @@
+[   
+    {
+        "id": "619a34d077cd980ebdfb73ad",
+        "price": "23.85",
+        "img": "./assets/company/imgs/hero.jpg",
+        "title": "Salame",
+        "desc": "quis elit enim minim ipsum mollit non ex",
+        "category": 1
+    },
+    {
+        "id": "629a34d077cd980ebdfb73ad",
+        "price": "15.31",
+        "img": "./assets/company/imgs/hero.jpg",
+        "title": "Salame Special",
+        "desc": "quis elit enim minim ipsum mollit non ex",
+        "category": 1
+    },
+    
+    {
+        "id": "639a34d077cd980ebdfb73ad",
+        "price": "16.49",
+        "img": "./assets/company/imgs/hero.jpg",
+        "title": "Tonno",
+        "desc": "quis elit enim minim ipsum mollit non ex",
+        "category": 2
+    },
+    {
+        "id": "649a34d077cd980ebdfb73ad",
+        "price": "23.85",
+        "img": "./assets/company/imgs/hero.jpg",
+        "title": "Salame",
+        "desc": "quis elit enim minim ipsum mollit non ex",
+        "category": 2
+    },
+    {
+        "id": "659a34d077cd980ebdfb73ad",
+        "price": "23.85",
+        "img": "./assets/company/imgs/hero.jpg",
+        "title": "Salame",
+        "desc": "quis elit enim minim ipsum mollit non ex",
+        "category": 3
+    },
+    {
+        "id": "669a34d077cd980ebdfb73ad",
+        "price": "23.85",
+        "img": "./assets/company/imgs/hero.jpg",
+        "title": "Salame",
+        "desc": "quis elit enim minim ipsum mollit non ex",
+        "category": 3
+    }
+]
